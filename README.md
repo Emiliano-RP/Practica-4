@@ -26,7 +26,7 @@
 2. Una vez iniciada la sesión, en la página de inicio nos dirigimos a la **"Barra de búsqueda de recursos, servicios y documentos"** para buscar **"Azure Machine Learning"**. 
 <center>
 
-![Captura de panatalla](Imágenes/Captura-de-pantalla-1.png)
+![Captura de pantalla](Imágenes/Captura-de-pantalla-1.png)
 
 </center>
 
